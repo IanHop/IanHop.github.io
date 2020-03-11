@@ -1,0 +1,12 @@
+ <span id="a">ian@hop</span>:<span id="b">~</span><span id="c">$</span> cd ianhop/<!-- laglaglaglaglaglag -->about_us
+<span id="a">ian@hop</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->ianhop.txt<br/>
+
+<!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+
+<p> Professional Projects:</p>
+WIP
+<!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p><br> <a href="https://www.linkedin.com/in/ian-hopkins-a104a6b7?trk=people-guest_people_search-card">LinkedIn</a> <br> <a href="https://github.com/IanHop">GitHub</a></p>
+
+<!-- slightdelayhere-->feel free to send me an email at: <!-- longlonglongcomment --><a href="ianyateshopkins@gmail.com">ianyateshopkins@gmail.com</a>.
+
