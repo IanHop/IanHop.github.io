@@ -9,19 +9,19 @@ Outgoing QA Automation Engineer with 6+ years of experience in photo/video based
 <a href="https://www.callofduty.com/advancedwarfare">Call of Duty: Advanced Warfare</a><br>
 <a href="https://codol.qq.com/">Call of Duty: Online</a><br>
 <a href="https://www.destinythegame.com/d1">Destiny</a><br>
-<a href="http://tornbanner.com/chivalry/">Chivalry: Medieval Warfare</a>
+<a href="http://tornbanner.com/chivalry/">Chivalry: Medieval Warfare</a><br>
 
-<p><span id="b">2015-2017</span> ~ <a href="https://thisisthebrigade.com/">The Brigade</a><br>
+<span id="b">2015-2017</span> ~ <a href="https://thisisthebrigade.com/">The Brigade</a><br>
 <a href="https://thisisthebrigade.com/work/beatles-on-spotify">Spotify - The Beatles Web App Launch</a><br>
 <a href="https://thisisthebrigade.com/work/nike-women">Spotify x Nike - Nike Women Move Mix</a><br>
 <a href="https://thisisthebrigade.com/work/spotify-ooo">Spotify - Out of Office</a><br>
-<a href="https://myhopcard.com/home/">TriMet - Hop Card Portal</a>
+<a href="https://myhopcard.com/home/">TriMet - Hop Card Portal</a><br>
 
-<p><span id="b">2017-2019</span> ~ <a href="https://www.rylo.com/">Rylo</a><br>
+<span id="b">2017-2019</span> ~ <a href="https://www.rylo.com/">Rylo</a><br>
 <a href="https://apps.apple.com/us/app/rylo/id1039121862">iOS 360° Camera Companion App</a><br>
 <a href="https://play.google.com/store/apps/details?id=com.rylo.selene&hl=en_US">Android 360° Camera Companion App</a><br>
 <a href="https://www.rylo.com/apps/">MacOS 360° Camera Companion App</a><br>
-<span id="c">360° Camera Firmware</span>
+<span id="c">360° Camera Firmware</span><br>
 
 <span id="b">2015-2017 & 2019-Current</span> ~ <a href="https://www.befunky.com/">BeFunky</a><br>
 <a href="https://www.befunky.com/create/">WebGL Photo Editor + Collage Maker + Designer Web App</a><br>
