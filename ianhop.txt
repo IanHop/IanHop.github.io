@@ -1,12 +1,42 @@
- <span id="a">ian@hop</span>:<span id="b">~</span><span id="c">$</span> cd ianhop/<!-- laglaglaglaglaglag -->about_us
-<span id="a">ian@hop</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->ianhop.txt<br/>
-
+ <span id="a">ian@hop</span>:<span id="b">~</span><span id="c">$</span> cd ianhop/<!-- laglaglaglaglaglag -->about_me
+<span id="a">ian@hop</span>:<span id="b">about_me</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->ianhop.txt<br/>
 <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p><span id="a">Objective:</span></p>
+Outgoing QA Automation Engineer with 6+ years of experience in photo/video based software and firmware development. Seeking opportunities to transition my unique skill set to the next innovative company.<br><br><br>
+<span id="a">Professional Projects:</span><br>
 
-<p> Professional Projects:</p>
-WIP
+<span id="b">2014-2015</span> ~ <a href="https://www.activisionblizzard.com/">Activision Blizzard</a><br>
+<a href="https://www.callofduty.com/advancedwarfare">Call of Duty: Advanced Warfare</a><br>
+<a href="https://codol.qq.com/">Call of Duty: Online</a><br>
+<a href="https://www.destinythegame.com/d1">Destiny</a><br>
+<a href="http://tornbanner.com/chivalry/">Chivalry: Medieval Warfare</a>
+
+<p><span id="b">2015-2017</span> ~ <a href="https://thisisthebrigade.com/">The Brigade</a><br>
+<a href="https://thisisthebrigade.com/work/beatles-on-spotify">Spotify - The Beatles Web App Launch</a><br>
+<a href="https://thisisthebrigade.com/work/nike-women">Spotify x Nike - Nike Women Move Mix</a><br>
+<a href="https://thisisthebrigade.com/work/spotify-ooo">Spotify - Out of Office</a><br>
+<a href="https://myhopcard.com/home/">TriMet - Hop Card Portal</a>
+
+<p><span id="b">2017-2019</span> ~ <a href="https://www.rylo.com/">Rylo</a><br>
+<a href="https://apps.apple.com/us/app/rylo/id1039121862">iOS 360° Camera Companion App</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.rylo.selene&hl=en_US">Android 360° Camera Companion App</a><br>
+<a href="https://www.rylo.com/apps/">MacOS 360° Camera Companion App</a><br>
+<span id="c">360° Camera Firmware</span>
+
+<span id="b">2015-2017 & 2019-Current</span> ~ <a href="https://www.befunky.com/">BeFunky</a><br>
+<a href="https://www.befunky.com/create/">WebGL Photo Editor + Collage Maker + Designer Web App</a><br>
+<a href="https://www.befunky.com/create/?use_app=flash">Flash Photo Editor + Collage Maker + Designer Web App</a><br>
+<a href="https://apps.apple.com/us/app/befunky/id442716817">Mobile Photo Editor + Collage Maker iOS App</a><br>
+<a href="https://play.google.com/store/apps/details?id=air.com.befunky.BeFunkyPhotoEditor&hl=en_US">Mobile Photo Editor + Collage Maker Android App </a><br>
+<a href="https://apps.apple.com/us/app/visionn/id1142803226">VISIONN real-time video filter iOS App</a>
 <!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p><br> <a href="https://www.linkedin.com/in/ian-hopkins-a104a6b7?trk=people-guest_people_search-card">LinkedIn</a> <br> <a href="https://github.com/IanHop">GitHub</a></p>
 
-<!-- slightdelayhere-->feel free to send me an email at: <!-- longlonglongcomment --><a href="ianyateshopkins@gmail.com">ianyateshopkins@gmail.com</a>.
 
+<span id="a">Other Links:</span>
+<p>
+<a href="https://docs.google.com/document/d/1km3Tsn7xlKpzJ3xtoaTpYc5nZ8XDtq6X6v0ImfgUXag/edit?usp=sharing">Resume</a><br>
+<a href="https://www.linkedin.com/in/ian-hopkins-a104a6b7?trk=people-guest_people_search-card">LinkedIn</a><br>
+<a href="https://github.com/IanHop">GitHub</a>
+</p>
+
+<!-- slightdelayhere-->Feel free to send me an email at: <!-- longlonglongcomment --><a href="mailto:ianyateshopkins@gmail.com">ianyateshopkins@gmail.com</a>
