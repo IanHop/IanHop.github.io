@@ -23,12 +23,20 @@ Outgoing QA Automation Engineer with 7+ years of experience in photo/video based
 <a href="https://www.rylo.com/apps/">MacOS 360° Camera Companion App</a><br>
 <span id="c">360° Camera Firmware</span><br>
 
-<span id="b">2015-2017 & 2019-Current</span> ~ <a href="https://www.befunky.com/">BeFunky</a><br>
+<span id="b">2015-2017 & 2019-2021</span> ~ <a href="https://www.befunky.com/">BeFunky</a><br>
 <a href="https://www.befunky.com/create/">WebGL Photo Editor + Collage Maker + Designer Web App</a><br>
 <a href="https://www.befunky.com/create/?use_app=flash">Flash Photo Editor + Collage Maker + Designer Web App</a><br>
 <a href="https://apps.apple.com/us/app/befunky/id442716817">Mobile Photo Editor + Collage Maker iOS App</a><br>
 <a href="https://play.google.com/store/apps/details?id=air.com.befunky.BeFunkyPhotoEditor&hl=en_US">Mobile Photo Editor + Collage Maker Android App </a><br>
 <a href="https://apps.apple.com/us/app/visionn/id1142803226">VISIONN real-time video filter iOS App</a>
+
+<span id="b">2021-Current</span> ~ <a href="https://opalcamera.com/">Opal Camera</a><br>
+<span id="c">WebCamera Firmware</span><br>
+<span id="c">MacOS Companion App</span><br>
+
+<span id="b">2021-Current</span> ~ <a href="https://www.skillz.com/">Skillz</a><br>
+<a href="https://developers.skillz.com/dashboard">Developer Console</a><br>
+<span id="c">Admin Portal</span><br>
 <!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 
 
