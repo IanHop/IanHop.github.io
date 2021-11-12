@@ -28,7 +28,7 @@ Outgoing QA Automation Engineer with 7+ years of experience in photo/video based
 <a href="https://www.befunky.com/create/?use_app=flash">Flash Photo Editor + Collage Maker + Designer Web App</a><br>
 <a href="https://apps.apple.com/us/app/befunky/id442716817">Mobile Photo Editor + Collage Maker iOS App</a><br>
 <a href="https://play.google.com/store/apps/details?id=air.com.befunky.BeFunkyPhotoEditor&hl=en_US">Mobile Photo Editor + Collage Maker Android App </a><br>
-<a href="https://apps.apple.com/us/app/visionn/id1142803226">VISIONN real-time video filter iOS App</a>
+<a href="https://apps.apple.com/us/app/visionn/id1142803226">VISIONN real-time video filter iOS App</a><br>
 
 <span id="b">2021-Current</span> ~ <a href="https://opalcamera.com/">Opal Camera</a><br>
 <span id="c">WebCamera Firmware</span><br>
