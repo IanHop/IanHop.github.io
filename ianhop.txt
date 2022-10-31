@@ -2,7 +2,7 @@
 <span id="a">ian@hop</span>:<span id="b">about_me</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->ianhop.txt<br/>
 <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <p><span id="a">Objective:</span></p>
-Outgoing Sr. QA Automation Engineer with 7+ years of experience in photo/video based software and firmware development. Seeking opportunities to transition my unique skill set to the next innovative company.<br><br><br>
+Outgoing Sr. QA/SDET Innovation Engineer with 8+ years of experience in photo/video based software and firmware development. Seeking opportunities to transition my unique skill set to the next innovative project.<br><br><br>
 <span id="a">Professional Projects:</span><br>
 
 <span id="b">2014-2015</span> ~ <a href="https://www.activisionblizzard.com/">Activision Blizzard</a><br>
@@ -30,15 +30,17 @@ Outgoing Sr. QA Automation Engineer with 7+ years of experience in photo/video b
 <a href="https://play.google.com/store/apps/details?id=air.com.befunky.BeFunkyPhotoEditor&hl=en_US">Mobile Photo Editor + Collage Maker Android App </a><br>
 <a href="https://apps.apple.com/us/app/visionn/id1142803226">VISIONN real-time video filter iOS App</a><br>
 
+<span id="b">2021-2022</span> ~ <a href="https://www.skillz.com/">Skillz</a><br>
+<a href="https://developers.skillz.com/dashboard">Developer Console</a><br>
+<span id="c">Admin Portal</span><br>
+
 <span id="b">2021-Current</span> ~ <a href="https://opalcamera.com/">Opal Camera</a><br>
 <span id="c">WebCamera Firmware</span><br>
 <span id="c">MacOS Companion App</span><br>
 
-<span id="b">2021-Current</span> ~ <a href="https://www.skillz.com/">Skillz</a><br>
-<a href="https://developers.skillz.com/dashboard">Developer Console</a><br>
-<span id="c">Admin Portal</span><br>
+<span id="b">2022-Current</span> ~ <a href="https://www.nike.com/">Nike</a><br>
+<span id="c">Cool projects soon to come!</span><br>
 <!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-
 
 <span id="a">Other Links:</span>
 <p>
