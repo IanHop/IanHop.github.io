@@ -39,7 +39,7 @@ Outgoing Sr. QA/SDET Innovation Engineer with 8+ years of experience in photo/vi
 <span id="c">MacOS Companion App</span><br>
 
 <span id="b">2022-Current</span> ~ <a href="https://www.nike.com/">Nike</a><br>
-<span id="c">Cool projects soon to come!</span><br>
+Cool projects soon to come!
 <!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 
 <span id="a">Other Links:</span>
