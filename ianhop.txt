@@ -13,10 +13,6 @@ Outgoing Senior Full Stack Innovation Engineer with 10+ years of experience in v
 <span id="c">WebCamera Firmware</span><br>
 <span id="c">MacOS Companion App</span><br>
 
-<span id="b">2021-2022</span> ~ <a href="https://www.skillz.com/">Skillz</a><br>
-<a href="https://developers.skillz.com/dashboard">Developer Console</a><br>
-<span id="c">Admin Portal</span><br>
-
 <span id="b">2015-2017 & 2019-2021</span> ~ <a href="https://www.befunky.com/">BeFunky</a><br>
 <a href="https://www.befunky.com/create/">WebGL Photo Editor + Collage Maker + Designer Web App</a><br>
 <a href="https://www.befunky.com/create/?use_app=flash">Flash Photo Editor + Collage Maker + Designer Web App</a><br>
