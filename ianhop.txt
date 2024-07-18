@@ -8,6 +8,7 @@ Outgoing Senior Full Stack Innovation Engineer with 10+ years of experience in v
 <span id="b">2022-Current</span> ~ <a href="https://www.nike.com/">Nike</a><br>
 <span id="c">Technology Innovation Office</span><br>
 <span id="c">Product Innovation and Consumer Creation</span><br>
+<span id="c">Enterprise Architecture and Developer Platforms</span><br>
 
 <span id="b">2021-2023</span> ~ <a href="https://opalcamera.com/">Opal Camera</a><br>
 <span id="c">WebCamera Firmware</span><br>
