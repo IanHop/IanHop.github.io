@@ -2,10 +2,13 @@
 <span id="a">ian@hop</span>:<span id="b">about_me</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->ianhop.txt<br/>
 <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <p><span id="a">Objective:</span></p>
-Outgoing Senior Full Stack Innovation Engineer with 10+ years of experience in various areas of photo/video based software and firmware development. Seeking opportunities to transition my unique skill set to the next innovative project.<br><br><br>
+Outgoing Senior Full Stack Engineer with 10+ years of experience in various areas of photo, video, and health based software/firmware development.<br><br><br>
 <span id="a">Professional Projects:</span><br>
 
-<span id="b">2022-Current</span> ~ <a href="https://www.nike.com/">Nike</a><br>
+<span id="b">2024-Current</span> ~ <a href="https://www.apple.com/">Apple</a><br>
+<span id="c">Health Software</span><br>
+
+<span id="b">2022-2024</span> ~ <a href="https://www.nike.com/">Nike</a><br>
 <span id="c">Technology Innovation Office</span><br>
 <span id="c">Product Innovation and Consumer Creation</span><br>
 <span id="c">Enterprise Architecture and Developer Platforms</span><br>
