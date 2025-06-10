@@ -2,7 +2,7 @@
 <span id="a">ian@hop</span>:<span id="b">about_me</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->ianhop.txt<br/>
 <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <p><span id="a">Objective:</span></p>
-Outgoing Senior Full Stack Engineer with 10+ years of experience in various areas of photo, video, and health based software/firmware development.<br><br><br>
+Outgoing Senior Full Stack Engineer with 10+ years of experience in various areas of photo, video, and health based software/firmware development.<br><br>
 <span id="a">Professional Projects:</span><br>
 
 <span id="b">2024-Current</span> ~ <a href="https://www.apple.com/">Apple</a><br>
